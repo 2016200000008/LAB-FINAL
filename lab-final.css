@@ -1,0 +1,70 @@
+
+
+		body {
+			font-family: "arial";
+		}
+
+		
+		.section {
+			font-family: arial;
+		}
+
+	
+		.section h2 {
+			background-color: rgb(255,255,255);
+			font-family: Georgia;
+			color: black;
+		}
+
+		#courses a:link {
+			color:rgb(100,0,0) ;
+		}
+		#courses a:hover {
+			color:red;
+		}
+		#courses a:active {
+			color:white;
+		}
+		#courses a:visited {
+			color:purple;
+		}
+
+	
+                  span {
+			color: red;
+		}
+
+		
+		span.serious {
+			font-family: "Impact";
+		}
+
+		
+		span.silly {
+			font-family: "Comic Sans MS";
+		}		
+
+		
+		#photo { float: right; }
+
+		
+		th, td { border: solid 1px black; }
+		
+		table { border-collapse: collapse; }
+
+		
+		tr:nth-child(even) {
+			background:rgb(220,220,220);
+		}
+
+		
+		tr.currentlytaking {
+			color:black;
+		}
+
+	
+		td.enrollheader {
+			background-color:white;
+			text-align:center;
+			font-weight:bold;
+		}
